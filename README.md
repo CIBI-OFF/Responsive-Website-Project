@@ -17,11 +17,15 @@ Navigation menu that collapses into a hamburger menu on smaller screens.
 Responsive images that scale to fit the screen size.
 
 Installation
+
 To install this project, simply download or clone the repository to your local machine. Then, open the index.html file in your web browser to view the website.
 
 Usage
+
 To use this website, simply navigate to the URL where it is hosted or open the index.html file in your web browser. The website should automatically adjust to the size of your screen, whether you are using a desktop computer, tablet, or mobile device.
 
 Credits
+
 This project was created by CIBI-OFF and was inspired by various online tutorials and resources.
+
 
