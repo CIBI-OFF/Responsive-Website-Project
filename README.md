@@ -24,6 +24,10 @@ To install this project, simply download or clone the repository to your local m
 
 To use this website, simply navigate to the URL where it is hosted or open the index.html file in your web browser. The website should automatically adjust to the size of your screen, whether you are using a desktop computer, tablet, or mobile device.
 
+# Contributing
+
+Contributions to this repository are welcome. If you would like to contribute a new concept or improve an existing one, please submit a pull request.
+
 # Credits
 
 This project was created by CIBI-OFF and was inspired by various online tutorials and resources.
